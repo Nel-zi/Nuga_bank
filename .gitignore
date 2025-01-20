@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+nuga_bank_transactions.csv
 
 # Spyder project settings
 .spyderproject

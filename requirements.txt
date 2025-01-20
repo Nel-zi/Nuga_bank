@@ -1,0 +1,10 @@
+pandas
+requests
+sqlalchemy
+beautifulsoup4
+python-dotenv
+lxml
+psycopg2
+selenium
+pyspark
+matplotlib
